@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepesh-Kumar1412
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... HTML, CSS , JS
+- 👀 I’m interested in ... Web Developmen
+- 🌱 I’m currently learning ... HTML, CSS , JS , ReactJs , 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
